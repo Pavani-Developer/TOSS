@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
+import './App.css';
 import TossGame from './Tossgame';
 
 function App() {
-  const [count, setCount] = useState(0);
 
   const appStyle = {
     backgroundColor: '#f0f0f0', 
@@ -18,5 +17,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
