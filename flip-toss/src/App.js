@@ -19,4 +19,6 @@ function App() {
 }
 
 
+// This is the main component
+
 export default App;
