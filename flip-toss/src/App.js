@@ -2,6 +2,7 @@ import './App.css';
 import TossGame from './Tossgame';
 
 function App() {
+  // This is the main component
 
   const appStyle = {
     backgroundColor: '#f0f0f0', 
